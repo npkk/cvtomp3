@@ -10,4 +10,4 @@ these are what I want to do.
 
 ffmpeg
 
-python > 3.4
+python
