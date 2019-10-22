@@ -36,4 +36,5 @@ def main():
         result = list(imap) # TODO: research why this line mustn't remove
 
 if __name__ == '__main__':
+    mp.freeze_support()
     main()
